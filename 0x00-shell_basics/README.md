@@ -13,3 +13,4 @@
 12. File type: Write a script that prints the type of the file named iamafile.
 13. We are symbols, and inhabit symbols: Create a symbolic link to /bin/ls, named __ls__. 14. Copy HTML files
 14. Copy HTML files: Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+15. Let’s move: Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
