@@ -10,3 +10,4 @@
 9. John Doe: set mode of file to -rwxr-x-wx
 10. Look in the mirror: Change permission
 11. Directories: adds execute permission to subdirectoriea
+12. More directories: creates dir with permission 751
