@@ -6,3 +6,4 @@
 5. Execute: add execute permissiin to hello file
 6. Multiple permissions: adding permissions to owner, group owner and  others
 7. Everybody: Execute permission to everybody
+8. James Bond: permission to only others for the hello file
