@@ -5,3 +5,4 @@
 4. Empty!: Script that creates an empty file
 5. Execute: add execute permissiin to hello file
 6. Multiple permissions: adding permissions to owner, group owner and  others
+7. Everybody: Execute permission to everybody
