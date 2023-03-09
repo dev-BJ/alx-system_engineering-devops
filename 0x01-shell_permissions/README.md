@@ -4,3 +4,4 @@
 3. New owner: change a file owner to user betty
 4. Empty!: Script that creates an empty file
 5. Execute: add execute permissiin to hello file
+6. Multiple permissions: adding permissions to owner, group owner and  others
